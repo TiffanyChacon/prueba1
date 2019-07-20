@@ -28,7 +28,7 @@ public class Ejemplo2 {
         
         System.out.println("Ingresar Telefono");
         telefono = leer.nextLine();
-        
+        // comentario equisde
         System.out.println("Su nombre es: "+nombre+"\nSu direccion es: "+direccion+"\nSu Telefono es: "+telefono);
     }
     
